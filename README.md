@@ -85,5 +85,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 Developed by **Arashdeep Singh**
-- **GitHub**: (https://github.com/MdMohsinHaider)
+- **GitHub**: (https://github.com/arashdeep-git)
 
