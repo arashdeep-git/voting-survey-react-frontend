@@ -22,7 +22,7 @@ A user-friendly voting survey application built with React.js and Vite. It allow
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MdMohsinHaider/Voting-Survey-React-Frontend.git
+   git clone https://github.com/arashdeep-git/voting-survey-react-frontend
    ```
 2. Navigate to the project directory:
    ```sh
